@@ -8,8 +8,7 @@
 .NOTES
     Version    : 1.2.0
     Author(s)  : Danyfirex & Dany3j
-    Credits    : https://bbs.pediy.com/thread-213954.htm
-                 LMongrain - Hash Algorithm PureBasic Version
+    Credits    : LMongrain - Hash Algorithm PureBasic Version
     License    : MIT License
     Copyright  : 2022 Danysys.
   
